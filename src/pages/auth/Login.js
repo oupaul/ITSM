@@ -58,7 +58,7 @@ const Login = () => {
           }}
         >
           <Typography component="h1" variant="h5" sx={{ mb: 3 }}>
-            客戶設備資訊管理系統
+            ITSM 管理平台
           </Typography>
           
           {error && (

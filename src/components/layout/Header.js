@@ -67,7 +67,7 @@ const Header = () => {
         </IconButton>
         
         <Typography variant="h6" noWrap component="div" sx={{ flexGrow: 1 }}>
-          客戶設備資訊管理系統
+          ITSM 管理平台
         </Typography>
 
         <Box sx={{ display: 'flex', alignItems: 'center' }}>
